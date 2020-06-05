@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MercedX</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="welcome_to_mercedx">Welcome to Mercedx</string>
+    <string name="welcome_to_your_personal_mercedes_help_centre">Welcome to your personal Mercedes Help Centre</string>
+    <string name="get_access_to_all_information_and_chat_with_mercedes_vega_ai">Chat with Mercedes Personal Assistant</string>
+    <string name="find_a_dealership">Find a dealership</string>
+    <string name="call_dealership">Call dealership</string>
+    <string name="about_mercedes">About Mercedes</string>
+    <string name="click_the_brands_above_to_learn_more">Click the brands above to learn more</string>
+</resources>
